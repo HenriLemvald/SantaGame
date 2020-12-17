@@ -1,0 +1,10 @@
+C:\Users\ADMIN\source\repos\SantaGame\SantaGame\bin\Debug\SantaGame.exe.config
+C:\Users\ADMIN\source\repos\SantaGame\SantaGame\bin\Debug\SantaGame.exe
+C:\Users\ADMIN\source\repos\SantaGame\SantaGame\bin\Debug\SantaGame.pdb
+C:\Users\ADMIN\source\repos\SantaGame\SantaGame\obj\Debug\SantaGame.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\SantaGame\SantaGame\obj\Debug\SantaGame.Form1.resources
+C:\Users\ADMIN\source\repos\SantaGame\SantaGame\obj\Debug\SantaGame.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\SantaGame\SantaGame\obj\Debug\SantaGame.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\SantaGame\SantaGame\obj\Debug\SantaGame.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\SantaGame\SantaGame\obj\Debug\SantaGame.exe
+C:\Users\ADMIN\source\repos\SantaGame\SantaGame\obj\Debug\SantaGame.pdb
